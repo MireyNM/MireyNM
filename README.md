@@ -1,13 +1,15 @@
 <p align="center">
-  <img width="760" height="300" src="https://user-images.githubusercontent.com/109363759/186941826-54bbd5fc-e769-4b72-982c-e8f451c08e9e.png">
+  <img width="760" height="300" src="https://user-images.githubusercontent.com/109363759/186954228-fdb07118-33b5-4480-9270-7e54542074fd.png">
 </p>
+
+
 
 <h1 align="center">Hi 👋🏼, I'm Mireille Nehme</h1>
 <h3 align="center">Passionate about everything related to Physics, Astronomy and Science!</h3>
 
 🔭 I’m currently working on taking a **Certificate in Data Analytics and Visualization from Carleton University**
 
-👩🏻‍💻 I’m currently learning **Excel and GitHub** and I look forward to see what next in this Bootcamp!
+👩🏻‍💻 I am committed to continuing education and focusing on my professional personal growth. 
 
 ✈️ I'm a traveler. I am really keen on photography and social media.
 
