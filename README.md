@@ -5,11 +5,13 @@
 
 
 <h1 align="center">Hi 👋🏼, I'm Mireille Nehme</h1>
-<h3 align="center">Passionate about everything related to Physics, Astronomy and Science!</h3>
+<h3 align="center">Passionate about solving problems and tough mental challenges!</h3>
 
-🔭 I’m currently working on taking a **Certificate in Data Analytics and Visualization from Carleton University**
+🔭 I just graduated from a Bootcamp in **Data Analytics and Visualization from Carleton University**
 
 👩🏻‍💻 I am committed to continuing education and focusing on my professional personal growth. 
+
+📈 I am seeking a new opportunity where I can focus on developing my personal growth in data science and visualization. 
 
 ✈️ I'm a traveler. I am really keen on photography and social media.
 
