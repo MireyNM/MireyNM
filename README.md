@@ -9,10 +9,10 @@
 
 🔭 I just graduated from a Bootcamp in **Data Analytics and Visualization from Carleton University**
 
+📈 I am seeking a new opportunity where I can focus on developing my skills in data analytics and visualization.
+
 👩🏻‍💻 I am committed to continuing education and focusing on my professional personal growth. 
-
-📈 I am seeking a new opportunity where I can focus on developing my personal growth in data science and visualization. 
-
+ 
 ✈️ I'm a traveler. I am really keen on photography and social media.
 
 💫 In my free time I like to go hiking, spend time in nature, or simply catch a movie on Netflix.
