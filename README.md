@@ -17,18 +17,22 @@
 💫 In my free time I like to go hiking, spend time in nature, or simply catch a movie on Netflix.
 
 
+
 <h3 align="left">Languages and Tools:</h3>
 Excel/VBA - GitHub - Python (Pandas - NumPy - SciPy - Matplotlib ) - SQL - SQLite - Flask - Web Scraping - Leaflet - GeoJSON - Mapping - Tableau - Statistics and R - Big Data -Hadoop - Spark - HTML/CSS - NLP - Cloud computing - AWS - Machine Learning (scikit-learn - TensorFlow - Neural Networks)
 
-<h3 align="left">Connect with me:</h3>
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mireille nehme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mireille nehme" height="30" width="40" /></a>
-
+&nbsp; &nbsp; &nbsp;
+<a href="mir.mehme@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/109363759/229686134-abd07133-a70b-46c9-b5ad-7c1f7523d794.png" alt="mireille nehme" height="26" width="40" /></a>
 </p>
 
 
-<!--
 
+
+
+<!--![Uploading Screen Shot 2023-04-04 at 12.13.17 AM.png…]()
 <a href="https://instagram.com/mireynehme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mireynehme" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mirey nehme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mirey nehme" height="30" width="40" /></a>
 
