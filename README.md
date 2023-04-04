@@ -1,7 +1,5 @@
 
-
-![IT Consultant Business Linkedin Banner](https://user-images.githubusercontent.com/109363759/229029201-e6a80bcf-3dc5-4789-b304-4aef27036b0f.png)
-
+![IT Consultant Business Linkedin Banner (5)](https://user-images.githubusercontent.com/109363759/229687755-cee21279-c809-45ba-bcd5-946758d6f0b8.png)
 
 <h1 align="center">Hi 👋🏼, I'm Mireille Nehme</h1>
 <h3 align="center">Passionate about solving problems and tough mental challenges!</h3>
