@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋🏼, I'm Mireille Nehme</h1>
 <h3 align="center">Passionate about solving problems and tough mental challenges!</h3>
 
-🔭 I just graduated from a Bootcamp in **Data Analytics and Visualization from Carleton University**
+🔭 I am a Data Analyst with a background in Physics and Astronomy.
 
 📈 I am seeking a new opportunity where I can focus on developing my skills in data analytics and visualization.
 
-👩🏻‍💻 I am committed to continuing education and focusing on my professional personal growth. 
+👩🏻‍💻 I am committed to continuing education and focusing on my professional and personal growth. 
  
 ✈️ I'm a traveler. I am really keen on photography and social media.
 
@@ -17,7 +17,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-Excel/VBA - GitHub - Python (Pandas - NumPy - SciPy - Matplotlib ) - SQL - SQLite - Flask - Web Scraping - Leaflet - GeoJSON - Mapping - Tableau - Statistics and R - Big Data -Hadoop - Spark - HTML/CSS - NLP - Cloud computing - AWS - Machine Learning (scikit-learn - TensorFlow - Neural Networks)
+Excel/VBA - GitHub - Python (Pandas - NumPy - SciPy - Matplotlib - Dash) - SQL - SQLite - Flask - Web Scraping - Leaflet - GeoJSON - Mapping - Tableau - Statistics and R - Big Data -Hadoop - Spark - HTML/CSS - NLP - Cloud computing - AWS - Machine Learning (scikit-learn - TensorFlow - Neural Networks)
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
