@@ -4,9 +4,7 @@
 <h1 align="center">Hi 👋🏼, I'm Mireille Nehme</h1>
 <h3 align="center">Passionate about solving problems and tough mental challenges!</h3>
 
-🔭 I am a Data Analyst with a background in Physics and Astronomy.
-
-📈 I am seeking a new opportunity where I can focus on developing my skills in data analytics and visualization.
+🔭 I am a Technical Project Manager and a Data Analyst with a background in Physics and Astronomy.
 
 👩🏻‍💻 I am committed to continuing education and focusing on my professional and personal growth. 
  
